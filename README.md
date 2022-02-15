@@ -1,6 +1,6 @@
 # ProjectTetra
 
-This is a game a friend of my saw in a dream. I tried to build it but the memories from the dream were getting vague so we lost our direction and also our drive to finish it.
+This is a game a friend of my saw in a dream. I tried to build it but the memories from the dream were getting vague so we lost our direction and also our drive to finish it. It has been abandoned unfortunely.
 
 It was going to be a mobile game but there is only a web build available. 
 
